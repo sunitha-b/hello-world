@@ -24,6 +24,7 @@ public class Response {
 	private Object content;
 	private int errorCode;
 	private Throwable errorDescription;
+	private String changeComments;
 
 	/**
 	 * Default Constructor
